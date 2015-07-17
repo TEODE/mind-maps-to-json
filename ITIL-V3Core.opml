@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:sx="http://www.microsoft.com/schemas/rss/sse" version="1.0">
+<head>
+<title>ITIL V3
+Core</title>
+<dateCreated>2012-11-05T14:15:59</dateCreated>
+<dateModified>2013-02-20T09:56:47</dateModified>
+<ownerName>Drago</ownerName>
+</head>
+<body>
+<outline text="Service Design">
+<outline text="1. Intro">
+<sx:sync version="1" id="ZdCHGO7VPUig1tTlsiwn0A=="/>
+</outline>
+<outline text="2. SM as a practice">
+<outline text="What is service management?">
+<sx:sync version="1" id="SLvi0fzKgEm0pDaJLFvNlw=="/>
+</outline>
+<outline text="What are services?">
+<sx:sync version="1" id="sL4Akq4zkk+JMHYUAVvz8Q=="/>
+</outline>
+<outline text="Functions and processes across the lifecycle">
+<sx:sync version="1" id="jpLLKNJCekymPnBxaftepw=="/>
+</outline>
+<outline text="SD fundamentals">
+<sx:sync version="1" id="ZNJIf0cxAEWdmdEuhueudA=="/>
+</outline>
+<sx:sync version="1" id="EfFn9t+rz0mhXnyZrzlh8g=="/>
+</outline>
+<outline text="3. SD principles">
+<outline text="Goals">
+<sx:sync version="1" id="peO2LqQsjkC/81oS9akSkg=="/>
+</outline>
+<outline text="Identifying service requirements">
+<sx:sync version="1" id="hTIDK9f3pU2ubmCurpw5ZA=="/>
+</outline>
+<outline text="Design activities">
+<sx:sync version="1" id="sx7tdKmFD0mDtLIsYVY9Rg=="/>
+</outline>
+<outline text="Design aspects">
+<sx:sync version="1" id="x4l6wzI4I0uFQyQthza7wA=="/>
+</outline>
+<outline text="The subsequent design activities">
+<sx:sync version="1" id="mBfuh7aNqkGE0TiB/ZoB2Q=="/>
+</outline>
+<outline text="Design constraints">
+<sx:sync version="1" id="eivqQAIYxE6cRN7gHsF3/w=="/>
+</outline>
+<outline text="SOA">
+<sx:sync version="1" id="rDbqie68G0mXAqBABNuNrw=="/>
+</outline>
+<outline text="Business Service Management">
+<sx:sync version="1" id="zOiPuesiU0CgSKd8YGThtA=="/>
+</outline>
+<outline text="SD models">
+<sx:sync version="1" id="09UdheA1H0CU9HjjKK3wwg=="/>
+</outline>
+<sx:sync version="1" id="DKHIJhJuFUKxDKL6KVkPbw=="/>
+</outline>
+<outline text="4. SD processes">
+<outline text="Service Catalogue Management">
+<sx:sync version="1" id="OUudxp9JSUmyCjzczbgPvA=="/>
+</outline>
+<outline text="Service Level Management">
+<sx:sync version="1" id="cqx0OLvB0keNIaT8Qcr4YA=="/>
+</outline>
+<outline text="Capacity Management">
+<sx:sync version="1" id="ucBoEfMphUWPX//KERFg6A=="/>
+</outline>
+<outline text="Availability Management">
+<sx:sync version="1" id="QYIPDxGCokCE5P4sb2nTxQ=="/>
+</outline>
+<outline text="IT Service Continuity Management">
+<sx:sync version="1" id="WBgKJdRWiUya/qro0i0fng=="/>
+</outline>
+<outline text="Information Security Management">
+<sx:sync version="1" id="wvVeoY+Xc0eAH5FGVjLEEw=="/>
+</outline>
+<outline text="Supplier Management">
+<sx:sync version="1" id="ViocDncx9E6ASRIff6jMrg=="/>
+</outline>
+<sx:sync version="1" id="5zPO4TqOfkaAJZgQDl75Zw=="/>
+</outline>
+<outline text="5. SD technology-related activities">
+<outline text="Requirements engineernig">
+<sx:sync version="1" id="8jm2lv7oX0ijj7odAYZ31A=="/>
+</outline>
+<outline text="Data and Information management">
+<sx:sync version="1" id="AySBLbTOdUqkY3Jn6qQ+4w=="/>
+</outline>
+<outline text="Application Management">
+<sx:sync version="1" id="LnQuAjo5K0Wqx2KehUqnGA=="/>
+</outline>
+<sx:sync version="1" id="MwaIkoZ56EefpgZQC6wp3g=="/>
+</outline>
+<outline text="6. Organizing for SD">
+<outline text="Functional roles analysis">
+<sx:sync version="1" id="Cqc9eIN1KEiLnDDqQw0bqw=="/>
+</outline>
+<outline text="Activity analysis">
+<sx:sync version="1" id="PEYXOjtnw0CohBWbo/tWUw=="/>
+</outline>
+<outline text="Skills and attributes">
+<sx:sync version="1" id="ZJXAj0jzA0G1sTokmetlEQ=="/>
+</outline>
+<outline text="Roles and responsibilities">
+<sx:sync version="1" id="0wEhNykTIk+swKcM4X3B2w=="/>
+</outline>
+<sx:sync version="1" id="oED5NQ3agkaJlqT49uB+Rg=="/>
+</outline>
+<outline text="7. Technology considerations">
+<outline text="SD tools">
+<sx:sync version="1" id="UCfYcZLxqk+H9s1QKVJRXw=="/>
+</outline>
+<outline text="SM tools">
+<sx:sync version="1" id="Sk1sdgm4MU2WmIortNdc3g=="/>
+</outline>
+<sx:sync version="1" id="IARl/YY5Pkyhh5TT0cnvVw=="/>
+</outline>
+<outline text="8. Implementing SD">
+<outline text="Business Impact Analysis">
+<sx:sync version="1" id="E5SdsSPwE0SYvnPxRHGtxA=="/>
+</outline>
+<outline text="Service Level Requirements">
+<sx:sync version="1" id="x9sTHzXNq0ioMH+dT+mhzQ=="/>
+</outline>
+<outline text="Risks to the servicess and processes">
+<sx:sync version="1" id="C/fC/Kohz0KJFfJa1N1GyQ=="/>
+</outline>
+<outline text="Implementing SD">
+<sx:sync version="1" id="U2kyB+N3tEWFJ0dzcH/SUA=="/>
+</outline>
+<outline text="Measurement of SD">
+<sx:sync version="1" id="TBCDsAAWuE+sMHjl912upw=="/>
+</outline>
+<sx:sync version="1" id="xd2j4bg7OEqyBmHGQXF+2w=="/>
+</outline>
+<outline text="9. Challenges, CSFs and risks">
+<outline text="Challenges">
+<sx:sync version="1" id="u5fn8k0IoE2bV7K16A0qYA=="/>
+</outline>
+<outline text="Risks">
+<sx:sync version="1" id="1NudF/FHqUuobw/5O5nIEw=="/>
+</outline>
+<outline text="">
+<sx:sync version="1" id="83OSdI7gkkSRHZxzHd8ywA=="/>
+</outline>
+<sx:sync version="1" id="BTj7niXvskabxdE6EJiyyQ=="/>
+</outline>
+<sx:sync version="1" id="ZayOQgSc5UqfgPBCNGk+hA=="/>
+</outline>
+<outline text="Service Operation">
+<outline text="1. Intro">
+<outline text="Achieve a desired steady state of managing services on a day to day basis">
+<sx:sync version="1" id="g0XGYPb940ukhQDZFZ2baw=="/>
+</outline>
+<outline text="Focuses on the delivery and control process activities">
+<sx:sync version="1" id="760ePj2/ZkqFnN1w8pRAPQ=="/>
+</outline>
+<outline text="V2 Service Support and Service Delivery Processes form a major part of this volume">
+<sx:sync version="1" id="IWM47VDIAk2HDKonvoG9yQ=="/>
+</outline>
+<sx:sync version="1" id="1cXGFTfb1kqUcpeFCKwUdQ=="/>
+</outline>
+<outline text="2. SM as a practice">
+<outline text="What is service management?">
+<sx:sync version="1" id="PMAXbTUHXE6xL0Dy5CTGsg=="/>
+</outline>
+<outline text="What are services?">
+<sx:sync version="1" id="0Ay2CywbxUWYDWQMqUo8kA=="/>
+</outline>
+<outline text="Functions and processes across the lifecycle">
+<sx:sync version="1" id="2LfVNI/OsEO0mxN+D/+OjQ=="/>
+</outline>
+<outline text="SO fundamentals">
+<sx:sync version="1" id="TtVcGaLHQU+xKlpbOBwrSQ=="/>
+</outline>
+<sx:sync version="1" id="eTzCj66F4U2cDUMjyleKHA=="/>
+</outline>
+<outline text="3. SO Principles">
+<outline text="Functions, groups, Teams, depts, and divisions">
+<sx:sync version="1" id="HyErX/NluUydgTT6AkPPAw=="/>
+</outline>
+<outline text="Achieving Balance in SO">
+<sx:sync version="1" id="PfKBaobghkOWBSdjNqkxgA=="/>
+</outline>
+<outline text="Providing Service">
+<sx:sync version="1" id="Z5Gd5ntRH0+q6qKNCGtxKA=="/>
+</outline>
+<outline text="Operation staff involvement in Service Design (SD) and Service Transition (ST)">
+<sx:sync version="1" id="RHs/czHe2EuiJsaQ5DQ22g=="/>
+</outline>
+<outline text="Documentation">
+<sx:sync version="1" id="g7oQcEvX9UGwJ8gTF1QdPg=="/>
+</outline>
+<sx:sync version="1" id="qxKHI0L6y0iKqtji+ncbrg=="/>
+</outline>
+<outline text="4. Service Operation processes">
+<outline text="Event Management">
+<sx:sync version="1" id="5b3qlI79XEGpgFl+0Nya4w=="/>
+</outline>
+<outline text="Incident Management">
+<sx:sync version="1" id="POTvA9aFWk+RUusET8Y9Og=="/>
+</outline>
+<outline text="Request Fullfilment">
+<sx:sync version="1" id="Zx5O9ZF3bUC3hvjzCbW8Ug=="/>
+</outline>
+<outline text="Problem Management">
+<sx:sync version="1" id="kWgvFy3hEEW2/ls9xXgkhg=="/>
+</outline>
+<outline text="Access Management">
+<sx:sync version="1" id="CYZMGL8aPEW0EJwpPxPC3g=="/>
+</outline>
+<outline text="Operational activities of processes covered in other lifecycle phases">
+<sx:sync version="1" id="Fm/3BXnowkO4IRsVh/Adyw=="/>
+</outline>
+<sx:sync version="1" id="HIz95+Cp60aT40ZKs24Bvw=="/>
+</outline>
+<outline text="5. Common Service Operation activities">
+<outline text="Monitoring and control">
+<sx:sync version="1" id="NpUS6yFjdkufkmCJA6SoBQ=="/>
+</outline>
+<outline text="IT Operations">
+<sx:sync version="1" id="o/ErMQOiHEuu/kjFMnvveg=="/>
+</outline>
+<outline text="Mainframe Management">
+<sx:sync version="1" id="O9fKmukVe0q6jNOhV78kag=="/>
+</outline>
+<outline text="Server Management and Support">
+<sx:sync version="1" id="IuNH4mJ4dEm+GSPKrlTMZQ=="/>
+</outline>
+<outline text="Network Management">
+<sx:sync version="1" id="oWig8ofyhEeUM2BdqKWDQw=="/>
+</outline>
+<outline text="Storage and Archive">
+<sx:sync version="1" id="eAnV8fazpkSD9To/WybTiA=="/>
+</outline>
+<outline text="DB Administration">
+<sx:sync version="1" id="QSIc0epvoU+c20f3x1BqGg=="/>
+</outline>
+<outline text="Directory services anagement">
+<sx:sync version="1" id="7RgUpSByZUK+mqU0/TF9+A=="/>
+</outline>
+<outline text="Desktop Support">
+<sx:sync version="1" id="zzMGZU1GC0S4IrVqKc9Wvw=="/>
+</outline>
+<outline text="Middleware Management">
+<sx:sync version="1" id="0RdoijCSSkm8YDK7IZr5cQ=="/>
+</outline>
+<outline text="Internet/Web Management">
+<sx:sync version="1" id="H0dYPLQ6wU+RwZnCmVnDIw=="/>
+</outline>
+<outline text="Facilities and Data Centre Management">
+<sx:sync version="1" id="oHKuaIe3MUeGyVcJJbkNzA=="/>
+</outline>
+<outline text="Information Security Management and Service Operation">
+<sx:sync version="1" id="64Pz5QWrNkKwBUP3XReI4A=="/>
+</outline>
+<outline text="Improvement of operational activities">
+<sx:sync version="1" id="JoC9N7Ouo0yO4FhIAowL7w=="/>
+</outline>
+<sx:sync version="1" id="0NOzzUvNm0yy24RUqwpOzw=="/>
+</outline>
+<outline text="6. Organizing for Service Operation">
+<outline text="Functions">
+<sx:sync version="1" id="xnM8Tf3/kEWv/ubOyNKC2w=="/>
+</outline>
+<outline text="Service Desk">
+<sx:sync version="1" id="yskmXRyp70OXU5VxQr6YXw=="/>
+</outline>
+<outline text="Technical Management">
+<sx:sync version="1" id="f4GICE52N02Rh4V0PZH1UQ=="/>
+</outline>
+<outline text="IT Operations Management">
+<sx:sync version="1" id="+yTWlJQ5GU6l6D7CxwTVFQ=="/>
+</outline>
+<outline text="Application Management">
+<sx:sync version="1" id="DbvNC4TJtECKMCEecstbkg=="/>
+</outline>
+<outline text="SO roles and responsibilities">
+<sx:sync version="1" id="/glMsGvF9Um17VEIhVXWQg=="/>
+</outline>
+<outline text="SO Org. Structures">
+<sx:sync version="1" id="7T0kSgebA0SaYDzKKzokKA=="/>
+</outline>
+<sx:sync version="1" id="/vz5Z0a9BEOHqvQwnoXe8Q=="/>
+</outline>
+<outline text="7. Technology Considerations">
+<outline text="Generic requirements">
+<sx:sync version="1" id="AlNbAOTS2EW1m+JjFsYN2A=="/>
+</outline>
+<outline text="Event Management">
+<sx:sync version="1" id="ffLPKwWoxkOu9oS5JUqADw=="/>
+</outline>
+<outline text="Incident Management">
+<sx:sync version="1" id="ANkFgySrhEK9q9M4Hu9SDg=="/>
+</outline>
+<outline text="Request Fulfillment">
+<sx:sync version="1" id="FNSRbtmMFk+u8oFNg8RzrA=="/>
+</outline>
+<outline text="Problem Management">
+<sx:sync version="1" id="mpmXAESV1kSgGFP53Q76FA=="/>
+</outline>
+<outline text="Access Management">
+<sx:sync version="1" id="bAUVhl+rfE64Cko8fo+JAg=="/>
+</outline>
+<outline text="Service Desk">
+<sx:sync version="1" id="jdVoFua2S0Gk6yM1eC/CIA=="/>
+</outline>
+<sx:sync version="1" id="9Q2WVw1XlUyKrEAJ8BRVkw=="/>
+</outline>
+<outline text="8. Implementing Service Operation">
+<outline text="Managing Change in SO">
+<sx:sync version="1" id="lShN0bDSvkKHnZPfSjhFoA=="/>
+</outline>
+<outline text="SO and Project Management">
+<sx:sync version="1" id="K6fH0r5Y/Ei1Nyv2a+4yKw=="/>
+</outline>
+<outline text="Assesing and managnig risk in SO">
+<sx:sync version="1" id="nZb2h34M5ECErhSkCVJIhw=="/>
+</outline>
+<outline text="Operational Staff in SD and ST">
+<sx:sync version="1" id="ijpAD+9MkEGbBZ8FXMRpCg=="/>
+</outline>
+<outline text="Planing and implementing SM technologies">
+<sx:sync version="1" id="jMxVE2hhvEaPD5IsfCegRQ=="/>
+</outline>
+<sx:sync version="1" id="9XuvwG7KQEWzCLIR3fHfxQ=="/>
+</outline>
+<outline text="9. Challenges, CSFs, and Risks">
+<outline text="Challenges">
+<sx:sync version="1" id="GHT1rJ+mqUqCv0QEka6NVQ=="/>
+</outline>
+<outline text="CSFs">
+<sx:sync version="1" id="UNGnPAzkTUykw/3fqFi/Fg=="/>
+</outline>
+<outline text="Risks">
+<sx:sync version="1" id="KVExxgQKtkCkKaZZPHUdcQ=="/>
+</outline>
+<sx:sync version="1" id="nI5JJ1VrzES2bT8MTyMNIQ=="/>
+</outline>
+<outline text="AA Complementary Industry Guidance">
+<outline text="COBIT">
+<sx:sync version="1" id="8HWQWmpT7UCnnw0r+SdOhw=="/>
+</outline>
+<outline text="CMMI">
+<sx:sync version="1" id="czkpfRHYxkKf16k2EjLJnw=="/>
+</outline>
+<outline text="BSC">
+<sx:sync version="1" id="ScUHX+SlSkOHXtwmW5f8HQ=="/>
+</outline>
+<outline text="QM">
+<sx:sync version="1" id="W/7MBx+6SkKviiAz5K+o3w=="/>
+</outline>
+<outline text="OSI Framework">
+<sx:sync version="1" id="GH8LNBGHQEyhZ3nFMlx77A=="/>
+</outline>
+<sx:sync version="1" id="y874wq/TOk2sLE1xo0Z2bw=="/>
+</outline>
+<outline text="AB Communication in SO">
+<outline text="Routine operational communication">
+<sx:sync version="1" id="VXgoURr1r0KmkWEM932+Pg=="/>
+</outline>
+<outline text="Communication between shifts">
+<sx:sync version="1" id="VcuSImbTzk+qMRLrmbGAQw=="/>
+</outline>
+<outline text="Performance reporting">
+<sx:sync version="1" id="wlUJSV2j40ejkdxnsyydqw=="/>
+</outline>
+<outline text="Communication in projects">
+<sx:sync version="1" id="cuLNA3E1D0OcpaQgJrd+TA=="/>
+</outline>
+<outline text="Communication in Changes">
+<sx:sync version="1" id="fhel54PXBUCdl1syA2uKeg=="/>
+</outline>
+<outline text="Communication in Exceptions">
+<sx:sync version="1" id="G3YgJlYnd0avn6z4e0oQ7w=="/>
+</outline>
+<outline text="Communication in Emergencies">
+<sx:sync version="1" id="cAevc5T8ZkOH3+A75pbt9A=="/>
+</outline>
+<outline text="Communication with users and customers">
+<sx:sync version="1" id="/ooRclc1+0OYZgE3NfHG3g=="/>
+</outline>
+<sx:sync version="1" id="VtWYEqy70EmdcoFxfANq2A=="/>
+</outline>
+<outline text="AC Kepner and Tregoe">
+<outline text="Defining the problem">
+<sx:sync version="1" id="5wjEkm3chk+EqlIPgna/xg=="/>
+</outline>
+<outline text="Describing the problem">
+<sx:sync version="1" id="P2C80TAMg0GRVPiKOWpb7g=="/>
+</outline>
+<outline text="Establishing possible cause">
+<sx:sync version="1" id="/3zfhw247kCYBf4dbQDRuQ=="/>
+</outline>
+<outline text="Testing the most probable cause">
+<sx:sync version="1" id="WCqUBGo/OU2QWFPxZSihXQ=="/>
+</outline>
+<outline text="Verifying the true cause">
+<sx:sync version="1" id="VOH5ifrRH0WGqACeoc5nFA=="/>
+</outline>
+<sx:sync version="1" id="1V9qRa/4o0qIN4/Llzp3VA=="/>
+</outline>
+<outline text="AD Ishikawa Diagrams">
+<sx:sync version="1" id="/JyiLo5m8UKxv6qCfti7xg=="/>
+</outline>
+<outline text="AE Detailed Description of Facilities Management">
+<outline text="Building Management">
+<sx:sync version="1" id="4q5Vy1CByEunt8BQGYngEQ=="/>
+</outline>
+<outline text="Equipment hosting">
+<sx:sync version="1" id="soJR4jdfaEikvLWbk+RvWQ=="/>
+</outline>
+<outline text="Power Management">
+<sx:sync version="1" id="VHc++vylxUu9Sm77Popahw=="/>
+</outline>
+<outline text="Environmental Conditioning and Alert Systems">
+<sx:sync version="1" id="5fY9dmzNwU+alwH8mYqvLA=="/>
+</outline>
+<outline text="Safety">
+<sx:sync version="1" id="nfXEQ7tKhUGgfGFroKIDNA=="/>
+</outline>
+<outline text="Physical Access Control">
+<sx:sync version="1" id="ykMM9fpeRUiputJstF3wRg=="/>
+</outline>
+<outline text="Shipping and Receiving">
+<sx:sync version="1" id="rLPRvcoqRECjlo1Yu+4BYg=="/>
+</outline>
+<outline text="Involvement in Contract Management">
+<sx:sync version="1" id="kd+AvonKzUqXOZO5R0FQSw=="/>
+</outline>
+<outline text="Maintenance">
+<sx:sync version="1" id="iCVWAsqqXE+NVle6TTnfyA=="/>
+</outline>
+<sx:sync version="1" id="nQL0wsNGTUC+3NEpFzFZ1Q=="/>
+</outline>
+<outline text="AF Physical Access Control">
+<sx:sync version="1" id="0n2O7bylckSAO++E/hRirQ=="/>
+</outline>
+<sx:sync version="1" id="J9bw/BtuCkKbyKuiIcJ3cQ=="/>
+</outline>
+<outline text="Service Transition">
+<outline text="1. Intro">
+<sx:sync version="1" id="R6hS8HEs90K2AFuPNbKMBw=="/>
+</outline>
+<outline text="2. SM as a practice">
+<outline text="What is service management?">
+<sx:sync version="1" id="W2MztU0+Lkuo2W+DFTOpEw=="/>
+</outline>
+<outline text="What are services?">
+<sx:sync version="1" id="NiQZ/EUtPUGjdZixKMH57A=="/>
+</outline>
+<outline text="Functions and processes across the lifecycle">
+<sx:sync version="1" id="WLnf8Krl0Uy5GRXNObPYFw=="/>
+</outline>
+<outline text="ST fundamentals">
+<sx:sync version="1" id="N1wCGgR920iWmGkrg5cx0g=="/>
+</outline>
+<sx:sync version="1" id="kmNjUHtjOU6NKoFsmJ92DQ=="/>
+</outline>
+<outline text="3. ST principles">
+<outline text="Principles supporting ST">
+<sx:sync version="1" id="Taa6XukpMkq48G+ohpw+0w=="/>
+</outline>
+<outline text="Policies for ST">
+<sx:sync version="1" id="nU3NUSUnrU6RB+ofCTbuNg=="/>
+</outline>
+<sx:sync version="1" id="cM/V4FshdkGI08UqGsX8ig=="/>
+</outline>
+<outline text="4. ST processes">
+<outline text="Transition planning and support">
+<sx:sync version="1" id="HABRuU0tT0CpiiYkAgg0yg=="/>
+</outline>
+<outline text="Change Management">
+<sx:sync version="1" id="p771T7GGiUa2hfiQ8Gf+Ug=="/>
+</outline>
+<outline text="Service Asset and Configuration Management">
+<sx:sync version="1" id="WRLZ1U95nUWI9YOlD8E65g=="/>
+</outline>
+<outline text="Release and Delpoyment Management">
+<sx:sync version="1" id="xClDXd4xEUmuksZACtYaOA=="/>
+</outline>
+<outline text="Service Validation and Testing">
+<sx:sync version="1" id="4KAgxKxMr0OPgEXS8kspCg=="/>
+</outline>
+<outline text="Evaluation">
+<sx:sync version="1" id="hBjaLxvirEyi58REL6nQeQ=="/>
+</outline>
+<outline text="Knowledge Management">
+<sx:sync version="1" id="j0BicCSLDk22NdPgE8op2w=="/>
+</outline>
+<sx:sync version="1" id="rFgpPaJc2U+9fuYn3+Kfbw=="/>
+</outline>
+<outline text="5. ST common operation activities">
+<outline text="Managing communications and commitment">
+<sx:sync version="1" id="wN0MjDSypE616Taz06719w=="/>
+</outline>
+<outline text="Managing organization and stakeholder change">
+<sx:sync version="1" id="lpHaISYD4EGpxnS4Ns+Guw=="/>
+</outline>
+<outline text="Stakeholder management">
+<sx:sync version="1" id="XUYEVN+3KkW+sc6v6S7Swg=="/>
+</outline>
+<sx:sync version="1" id="BDTOUdSjAEm9L1LxIQ39yg=="/>
+</outline>
+<outline text="6. Organizing for ST">
+<outline text="Generic roles">
+<sx:sync version="1" id="7ajZOZWTa0Cxar0dpwSXKg=="/>
+</outline>
+<outline text="Organiaztional context for transitioning a service">
+<sx:sync version="1" id="YUfmghMN0EqKKzaAORt8Rw=="/>
+</outline>
+<outline text="Organization models to support ST">
+<sx:sync version="1" id="cqi+NsuVUE+4SsL+GaSqPg=="/>
+</outline>
+<outline text="ST relations with other lifecycle stages">
+<sx:sync version="1" id="eaVrWLuYUk6GRmzHtXn4Jg=="/>
+</outline>
+<sx:sync version="1" id="oYhpjdwMiEiLzTVm2h6UOA=="/>
+</outline>
+<outline text="7. Technology considerations">
+<outline text="Knowledge Management tools ">
+<sx:sync version="1" id="rG2MINMos0aeETKaLloL0Q=="/>
+</outline>
+<outline text="Collaboration">
+<sx:sync version="1" id="fBKWsRQJHESW8hxQj4JNww=="/>
+</outline>
+<outline text="Configuration Management System">
+<sx:sync version="1" id="uFUdR03K3UKu2dxnJpvuYA=="/>
+</outline>
+<sx:sync version="1" id="nt6mWNrCnEyxdS21Xc2Dpg=="/>
+</outline>
+<outline text="8. Implementnig ST">
+<outline text="Stages of introducing ST">
+<sx:sync version="1" id="yAjTmxPIpka9WXEgLqw4sA=="/>
+</outline>
+<sx:sync version="1" id="/qgWUA9v/EmRv96MW3a7sg=="/>
+</outline>
+<outline text="9. Challenges, CSFs and risks">
+<outline text="Challenges">
+<sx:sync version="1" id="XY3PsB8CUUam8TZjn/8AXQ=="/>
+</outline>
+<outline text="CSFs">
+<sx:sync version="1" id="32CdOSnOCESpSYBSs6vhlg=="/>
+</outline>
+<outline text="ST under difficult conditions">
+<sx:sync version="1" id="RKKL76f/fE2+osUycQUpaw=="/>
+</outline>
+<sx:sync version="1" id="2mS3wLy01UqJ4Q1SHOQOkw=="/>
+</outline>
+<sx:sync version="1" id="1YlMIaJCd06LqD8BEG6tGQ=="/>
+</outline>
+<outline text="This mind map was downloaded from www.biggerplate.com">
+<outline text="Find more mind maps in our library">
+<sx:sync version="1" id="JSXTT+aqXUCl19PvsTVK7w=="/>
+</outline>
+<outline text="Follow us on Twitter">
+<sx:sync version="1" id="pZRaaJePKkuLFr3E+eWSVA=="/>
+</outline>
+<outline text="Find us on Facebook">
+<sx:sync version="1" id="kXlMhVhWyU+Ao47kiBOC0A=="/>
+</outline>
+<sx:sync version="1" id="IkRKsZj9m0y7yVND4IVUmA=="/>
+</outline>
+<outline text="Continual Service Improvement">
+<outline text="1. Intro">
+<sx:sync version="1" id="9SCsLiZOMEi/ZxxxhFDzhg=="/>
+</outline>
+<outline text="2. SM as a practice">
+<outline text="What is service management?">
+<sx:sync version="1" id="+z7Cc/6T90KAOhE/j/y+cg=="/>
+</outline>
+<outline text="What are services?">
+<sx:sync version="1" id="SkXZHx2zQ0u3CFJxqpTTBw=="/>
+</outline>
+<outline text="Functions and processes across the lifecycle">
+<sx:sync version="1" id="/NzBrtzWnUiwYx87amI4lw=="/>
+</outline>
+<outline text="CSI fundamentals">
+<sx:sync version="1" id="sZ1nGTpkIka+IYzJTKkCGg=="/>
+</outline>
+<sx:sync version="1" id="h6J/wM4AEEyNy7dghSF7Xg=="/>
+</outline>
+<outline text="3. CSI Principles">
+<outline text="CSI and organizational change">
+<sx:sync version="1" id="dU4xfaCZskKV0plsbcD0PQ=="/>
+</outline>
+<outline text="Ownership">
+<sx:sync version="1" id="rsH2cppSs0ajZ/f5qhU3JA=="/>
+</outline>
+<outline text="Role definitions">
+<sx:sync version="1" id="ms2cEkdVNkO9x4RO2LlppA=="/>
+</outline>
+<outline text="External and internal drivers">
+<sx:sync version="1" id="R2FCn0zac0K7kq0XLV4tOg=="/>
+</outline>
+<outline text="SLM">
+<sx:sync version="1" id="k3Z72TgYQU6FI/S4bgLvLw=="/>
+</outline>
+<outline text="The Deming Cycle">
+<sx:sync version="1" id="8y90Qn3veUG+uVe8vj1O/w=="/>
+</outline>
+<outline text="Service Measurement">
+<sx:sync version="1" id="k394I+aTZkSsdlKAx1Jh5Q=="/>
+</outline>
+<outline text="Knowledge management">
+<sx:sync version="1" id="c6HpyhTLhEuG7loxR1YORQ=="/>
+</outline>
+<outline text="Benchmarks">
+<sx:sync version="1" id="fUha4k9RD0GOz6rOeAZyNg=="/>
+</outline>
+<outline text="Governance">
+<sx:sync version="1" id="RkYyyUq6rUOeNo+/DpSCVQ=="/>
+</outline>
+<outline text="Frameworks, models, standards and quality systems">
+<sx:sync version="1" id="WUN6bWvQAU2Gc9oMqbxBXg=="/>
+</outline>
+<sx:sync version="1" id="t08pKu+xFU+Re1GfPtZmzw=="/>
+</outline>
+<outline text="4. CSI Processes">
+<outline text="The 7-Step improvement process">
+<sx:sync version="1" id="migLLrPc+kS6rzUviM6XTQ=="/>
+</outline>
+<outline text="Service Reporting">
+<sx:sync version="1" id="0G3mE70m7EetZVhcNHez6A=="/>
+</outline>
+<outline text="Service Measurement">
+<sx:sync version="1" id="t70y29aYwUerGkyHzVMR1Q=="/>
+</outline>
+<outline text="ROI for CSI">
+<sx:sync version="1" id="Ce4i3/pmvk23qfjBcCvRTg=="/>
+</outline>
+<outline text="Business questions for CSI">
+<sx:sync version="1" id="TWQ2VhYNdUCpLJNmVKFyjA=="/>
+</outline>
+<outline text="SLM">
+<sx:sync version="1" id="gF1VvKLCI0GK8ZSI13tqtg=="/>
+</outline>
+<sx:sync version="1" id="ZTMBv+Gjv0yCk99DH81FCw=="/>
+</outline>
+<outline text="5. CSI methods and techniques">
+<outline text="Methods and techniques">
+<sx:sync version="1" id="MV6pObwta0mETqLyAsTF5Q=="/>
+</outline>
+<outline text="Assesments">
+<sx:sync version="1" id="eaVLJ81alE+mzW9sbXR0FA=="/>
+</outline>
+<outline text="Benchmarking">
+<sx:sync version="1" id="DfJ+oFUYHE2yKb99xY6/Tw=="/>
+</outline>
+<outline text="Measurement and reporting frameworks">
+<sx:sync version="1" id="Qx0giyBYU0S9jxmaksQKUw=="/>
+</outline>
+<outline text="The Deming Cycle">
+<sx:sync version="1" id="QrRIJrmd+kGr9rwCteryzA=="/>
+</outline>
+<outline text="CSI and other SM processes">
+<sx:sync version="1" id="PaEBP1bzHUeg7j8Oqrhz6g=="/>
+</outline>
+<outline text="Summary">
+<sx:sync version="1" id="48vwurvHl0CcZ7AdrXVzOg=="/>
+</outline>
+<sx:sync version="1" id="LZj+mkWgj0a7Ss/vCqwjeA=="/>
+</outline>
+<outline text="6. Organizing for CSI">
+<outline text="Roles and responsibilities that support CSI">
+<sx:sync version="1" id="gI2H+RUUKEeXpp2ksfDokQ=="/>
+</outline>
+<outline text="The authority matrix">
+<sx:sync version="1" id="JxYYAqLwD0mR9+zHV+6GKw=="/>
+</outline>
+<outline text="Summary">
+<sx:sync version="1" id="4HuzUsadIEiofOSEGeO4lg=="/>
+</outline>
+<sx:sync version="1" id="gV9jSpBc+EWT4PThx5IRug=="/>
+</outline>
+<outline text="7. Technology considerations">
+<outline text="Tools to support CSI activities">
+<sx:sync version="1" id="3GkrZFog0kiKHs30+zZgbQ=="/>
+</outline>
+<outline text="Summary">
+<sx:sync version="1" id="Pnd3PZ7naEyvN/oxhnsVCw=="/>
+</outline>
+<sx:sync version="1" id="vGIkn+ABgky9v39RVgtzTg=="/>
+</outline>
+<outline text="8. Implementing CSI">
+<outline text="Critical considerations for implementing CSI">
+<sx:sync version="1" id="+uKq6Pp/4E+GzNg9Ev0aGQ=="/>
+</outline>
+<outline text="Where do I start?">
+<sx:sync version="1" id="s7MCz3C6bUeo7hqYEDeRVg=="/>
+</outline>
+<outline text="Governance">
+<sx:sync version="1" id="++4oj2l6T0GYTuDILIUrzg=="/>
+</outline>
+<outline text="CSI and organizational change">
+<sx:sync version="1" id="Hnmro5tMz0qJNMMg5EPmPg=="/>
+</outline>
+<outline text="Communication strategy and plan">
+<sx:sync version="1" id="Erui1Tro8kyRaMf9Wp3kqw=="/>
+</outline>
+<outline text="Summary">
+<sx:sync version="1" id="toS2INvdNUOltAJB3ikzfw=="/>
+</outline>
+<sx:sync version="1" id="dqxLDDcvHE61Bj9GUDhMug=="/>
+</outline>
+<outline text="9. Challenges, CSFs and risks">
+<outline text="Challenges">
+<sx:sync version="1" id="yqtph2OKG0G0MNVMIafiaA=="/>
+</outline>
+<outline text="Critical success factors">
+<sx:sync version="1" id="vSYu3+lK+UWMYmPxXs5Avg=="/>
+</outline>
+<outline text="Risks">
+<sx:sync version="1" id="19Liu+xfuk6PYdZM0YBXhw=="/>
+</outline>
+<outline text="Summary">
+<sx:sync version="1" id="dA4ep0+bB0uJgcX2RRUsHg=="/>
+</outline>
+<sx:sync version="1" id="OoQe5a9uS0yDDXB48Eqnmw=="/>
+</outline>
+<sx:sync version="1" id="D6aPe2pSQUyg0IUlAJETrQ=="/>
+</outline>
+<outline text="Service Strategy">
+<outline text="1. Overview">
+<sx:sync version="1" id="BrEDmy7Bfk+rqFsoP4rzcw=="/>
+</outline>
+<outline text="2. Service Management as a practice">
+<outline text="What is SM?">
+<sx:sync version="1" id="jEPqqqGd6EuTl22CxugU0w=="/>
+</outline>
+<outline text="What are services?">
+<sx:sync version="1" id="N2SNqJraV0m1kzzYA03Ykw=="/>
+</outline>
+<outline text="The business process">
+<sx:sync version="1" id="ndUQMzP2fEuOqnm9Pbbymw=="/>
+</outline>
+<outline text="Principles of SM">
+<sx:sync version="1" id="lugtgIqcqUKC1h2vjzKq0g=="/>
+</outline>
+<outline text="The Service Lifecycle">
+<sx:sync version="1" id="sHMf7B0UVU+pa5edDKPy5A=="/>
+</outline>
+<outline text="Functions and processes across the lifecycle">
+<sx:sync version="1" id="4aTEUfAhbEeT5rCZS1MFQQ=="/>
+</outline>
+<sx:sync version="1" id="UOAL0L8eKEeXE6aJZza2ZA=="/>
+</outline>
+<outline text="3. Service strategy principles">
+<outline text="Value creation">
+<sx:sync version="1" id="Y9rnusD3tE6eypauDBKqxg=="/>
+</outline>
+<outline text="Service assets">
+<sx:sync version="1" id="W/oAC912KE6zvtkcLEAtTQ=="/>
+</outline>
+<outline text="Service provider types">
+<sx:sync version="1" id="e4BwzKMJqEGOw9kaRzSG0Q=="/>
+</outline>
+<outline text="Service structures">
+<sx:sync version="1" id="1obREey260y/KvdW2dNSWg=="/>
+</outline>
+<outline text="SS fundamentals">
+<sx:sync version="1" id="khDEGHe+lkK+2MLfONqzkQ=="/>
+</outline>
+<sx:sync version="1" id="/uP0BZO26kquDkpGguWmXw=="/>
+</outline>
+<outline text="4. Service Strategy">
+<outline text="Define the market">
+<sx:sync version="1" id="K6E1Qp8A/EKyrIz5FRWxXg=="/>
+</outline>
+<outline text="Develop the offerings">
+<sx:sync version="1" id="tVa1hYk+OkChxz4cmpEtDg=="/>
+</outline>
+<outline text="Develop strategic assets">
+<sx:sync version="1" id="dE7LwwyBZ0mk3dNKiO5hLQ=="/>
+</outline>
+<outline text="Prepare for execution">
+<sx:sync version="1" id="7VS/igYwN06954JNDvdlbQ=="/>
+</outline>
+<sx:sync version="1" id="/W8By4stPkmowIvyQ8eehg=="/>
+</outline>
+<outline text="5. Service economics">
+<outline text="Financial management">
+<sx:sync version="1" id="iRX9ap3FdEyU0c3mmbQCgw=="/>
+</outline>
+<outline text="ROI">
+<sx:sync version="1" id="+Y92iqNFFUOz4zuufaDBlA=="/>
+</outline>
+<outline text="Service Portfolio Management">
+<sx:sync version="1" id="lUAv4MFfrkaHozsTzOaiKg=="/>
+</outline>
+<outline text="Service Portfolio Management Methods">
+<sx:sync version="1" id="ciTY3HlNb0Or2hULL4Rk2A=="/>
+</outline>
+<outline text="Demand Management">
+<sx:sync version="1" id="64Vf7rlCNUGBYKrY56K3WA=="/>
+</outline>
+<sx:sync version="1" id="lStzbZEiJEa1udRNomtlhA=="/>
+</outline>
+<outline text="6. Strategy and organization">
+<outline text="Organizatioonal development">
+<sx:sync version="1" id="BDSs5c3fEUCv11SdIkB2ew=="/>
+</outline>
+<outline text="Organizational departmentalization">
+<sx:sync version="1" id="TJOeDGwunkmLU7BnQaSmdg=="/>
+</outline>
+<outline text="Organizational design">
+<sx:sync version="1" id="KWwFiN9Oek+7tfwusUW3hQ=="/>
+</outline>
+<outline text="Organizational culture">
+<sx:sync version="1" id="TnJk25LSUEKacYp/nty73A=="/>
+</outline>
+<outline text="Sourcing strategy">
+<sx:sync version="1" id="0ISnu8ifpUKNGURGIix8OQ=="/>
+</outline>
+<sx:sync version="1" id="Ja1LeLxymEaKDxwG5L6viw=="/>
+</outline>
+<outline text="7. Strategy, tactics and operations">
+<outline text="Implementation through the lifecycle">
+<sx:sync version="1" id="WzIn44LQqkGy8nj4Cms4EQ=="/>
+</outline>
+<outline text="Strategy and design">
+<sx:sync version="1" id="MO+3k5bbzEGM3UXPNRmK+g=="/>
+</outline>
+<outline text="Strategy and operations">
+<sx:sync version="1" id="JckpkMeuGUCcCTbuHXAxQg=="/>
+</outline>
+<outline text="Strategy and improvement">
+<sx:sync version="1" id="Eo9lgzWZYU+h2Enh2DIVTQ=="/>
+</outline>
+<sx:sync version="1" id="C1HmCzmDUUiGq2ypBX4mAg=="/>
+</outline>
+<outline text="8. Technology and strategy">
+<outline text="Service automation">
+<sx:sync version="1" id="R0o1Y+u7yESh9g7ZBv18rw=="/>
+</outline>
+<outline text="Service interfaces">
+<sx:sync version="1" id="SfvLOLoj0ESe23fpKLw97A=="/>
+</outline>
+<outline text="Tools for service strategy">
+<sx:sync version="1" id="z8pWBYRJMUW0rANMKgaQ9Q=="/>
+</outline>
+<sx:sync version="1" id="T2k1tpy890KjzsGgO1I3hA=="/>
+</outline>
+<outline text="9. Challenges, CSFs and risks">
+<outline text="Complexity">
+<sx:sync version="1" id="/hk4+4EtN0mO2MAA9Vzrbw=="/>
+</outline>
+<outline text="Coordination and control">
+<sx:sync version="1" id="UE76BoDiakCvxJzBdByxFg=="/>
+</outline>
+<outline text="Preserving value">
+<sx:sync version="1" id="3SLDzznjI0yN1V/9qv1ZVw=="/>
+</outline>
+<outline text="Effectiveness in measurement">
+<sx:sync version="1" id="88Sq7r6Klk+rngguwNKqXA=="/>
+</outline>
+<outline text="Risks">
+<sx:sync version="1" id="1GouD79IOEq+dyFuZSVSqA=="/>
+</outline>
+<sx:sync version="1" id="wqAHfwTNdUquyQ+8uNPWdg=="/>
+</outline>
+<sx:sync version="1" id="vQePnqBlBEu7lcgMF9vZIg=="/>
+</outline>
+</body>
+</opml>
