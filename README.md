@@ -1,6 +1,5 @@
-# mindmap2navapp
-Turn mind maps into navigable app
+# Mind maps to JSON 
+Turn mind maps into JSON data objects for standard manipulation and navigation
 ## TODO:
-* App basic structure
-* Add more format parsers
-* OTA search/download mind maps
+* Add standard format parsers
+* Preload a few mind maps for test purposes
